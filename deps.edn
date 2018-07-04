@@ -1,2 +1,3 @@
-{:deps
- {org.clojure/clojurescript {:mvn/version "1.10.238"}}}
+
+{:deps {org.clojure/clojurescript {:mvn/version "1.10.339"}
+        com.google.javascript/closure-compiler-unshaded {:mvn/version "1.0-SNAPSHOT"}}}
